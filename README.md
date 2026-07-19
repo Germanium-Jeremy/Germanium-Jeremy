@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hi there 👋, I'm <span style="color: #00d4ff;">NKUNDABAGENZI Jeremie</span>
+    Hi there 👋, I'm <span style="color: #00d4ff;">Nkundabagenzi Jeremie</span>
   </h1>
 
   <div style="margin: 20px 0;">
@@ -16,8 +16,7 @@
   </div>
 
   <p>
-    <strong>Currently studying at Rwanda Coding Academy</strong><br>
-    <em>Passionate about Software Engineering, AI & ML, Game Development and System Designs</em>
+    <em>Passionate about Software Engineering, AI & ML, Game Development, Web Development and System Designs</em>
   </p>
 
   <a href="https://linkedin.com/in/nkundabagenzi-jeremie-3ba751405" target="_blank">
